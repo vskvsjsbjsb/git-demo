@@ -2,6 +2,9 @@ class aa
 {
   public void main (){
     system.out.print("hello word")
+    int id =100/25
+
+    system.out.print("相加的数字是："+id)
 
   }
 }
