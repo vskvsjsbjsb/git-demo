@@ -1,0 +1,7 @@
+class aa
+{
+  public void main (){
+    system.out.print("hello word")
+
+  }
+}
